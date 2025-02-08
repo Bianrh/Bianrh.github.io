@@ -1,14 +1,8 @@
 @import 'nib'
 
-// 全局去除边框和阴影
-*
-  border: none
-  box-shadow: none
-
 // 顶部图
 #page-header
   background: transparent !important
-  opacity: 1
 
   &.post-bg, &.not-home-page
     height: 280px !important
@@ -28,43 +22,26 @@
 
 .top-img
   height: 250px
-  margin: 0 0 50px 0
-  border: none
-  border-radius: 0
+  margin: -50px -40px 50px
+  border-top-left-radius: inherit
+  border-top-right-radius: inherit
   background-position: center center
   background-size: cover
   transition: all 0.3s
-  opacity: 1
 
   @media screen and (max-width: 768px)
     height: 230px
-    margin: 0 0 36px 0
+    margin: -36px -14px 36px
 
   [data-theme='dark'] &
     filter: brightness(0.8)
 
-// 文章内容区域
-.layout_post>#post
-  background: transparent
-
-// 侧边栏
-#aside_content
-  background: transparent
-
-// 最近文章列表
-#recent-posts>.recent-post-item
-  background: transparent
-
 // 页脚
 #footer:before
-  background-color: transparent
+  background-color: alpha(#FFF, .0)
 
   [data-theme='dark'] &
-    background-color: transparent
-
-#footer
-  background-color: transparent
-  opacity: 1
+    background-color: alpha(#000, .0)
 
 #footer-wrap, #footer-wrap a
   color: #111
