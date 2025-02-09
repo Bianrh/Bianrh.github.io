@@ -44,7 +44,7 @@
     background-color: alpha(#000, .0)
 
 #footer-wrap, #footer-wrap a
-  color: #111
+  color: black
   transition: unset
 
   [data-theme='dark'] &
