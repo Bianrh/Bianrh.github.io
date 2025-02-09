@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>离职思考</title>
+      <link href="/2025/02/09/%E7%A6%BB%E8%81%8C%E6%80%9D%E8%80%83/"/>
+      <url>/2025/02/09/%E7%A6%BB%E8%81%8C%E6%80%9D%E8%80%83/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我是去年毕业的本科生，今天是星期天，也是我来这个公司的第8个月，想到和我一起来的同事已经申请了离职，我的内心有点迷茫，在这自说自话，全当说给自己听吧！</p><h2 id="工作情况"><a href="#工作情况" class="headerlink" title="工作情况"></a>工作情况</h2><p>目前就我了解到的，我的同事在年前经常加班，每次加班都要工作到晚上十一二点，而我们正常上班是上午八点半到下午六点。关于这件事，也可能是因为他的工作岗位导致的，写标书，给领导检查，打回修改，检查合格后还要去打印店打印标书文件，工作流程还是挺多的。不用别人说，就我自己看见的情况，他是肉眼可见的精神变得不好，看着憔悴了许多。</p><h2 id="现在的感受"><a href="#现在的感受" class="headerlink" title="现在的感受"></a>现在的感受</h2><p>上个星期他告诉我，他已经和领导说了离职的事，说实话，当时的一瞬间我也想离职，可是看着中国现在的经济情况，还有许多和我同届的毕业生还在找工作、考公考研寻找自己的道路，而我好说还有一份工作，虽然到手工资不咋滴，也就没有再想和他一起走的事了。心里想着，现在先干着吧，一边干一边学东西，只要能养活我自己一个人那就没问题了，钱可以慢慢挣，慢慢累积的，不可能一蹴而就，想着也是，不过才毕业八个月，能拿多少工资呢。</p><p>新来的领导让我们部门的人每个人负责一个行业，跟进整个项目的流程，我选了医疗，因为手上正好有医疗相关的项目，希望我能学到更多和业务相关的东西吧！</p><h2 id="计划与打算"><a href="#计划与打算" class="headerlink" title="计划与打算"></a>计划与打算</h2><p>按时完成每天的工作，跟进手头项目的进度，一边工作一边学完计算机系统，加油！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工作杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录心情 </tag>
+            
+            <tag> 日记 </tag>
+            
+            <tag> 离职 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一个博客</title>
       <link href="/2025/02/07/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
       <url>/2025/02/07/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这是我的第一个学习博客</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这是我的第一个学习博客，记录一下我安装并部署我的个人博客的过程</p><h2 id="安装准备"><a href="#安装准备" class="headerlink" title="安装准备"></a>安装准备</h2><p>安装hexo的本地设备需要安装nodejs、npm和git，其中nodejs是hexo安装需要的环境，建议不要安装最新版本，安装上个版本的稳定版就好，npm会随nodejs安装的时候一起安装，建议更换一下国内安装源，不然会很慢，git是上传和拉取开源仓库文件的工具，部署的时候会使用。<br>这些环境和工具安装网上都有教程，一搜就能找到，我就不多说了。</p><h2 id="安装过程"><a href="#安装过程" class="headerlink" title="安装过程"></a>安装过程</h2><p>依次输入下面的命令就行</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br><span class="line"><span class="comment">## 下面的命令是初始化hexo,可以自己选择一个你要保存博客的位置，再进入CMD输入命令</span></span><br><span class="line">$ hexo init blog</span><br><span class="line">$ <span class="built_in">cd</span> blog</span><br><span class="line">$ npm install</span><br><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -20,9 +49,9 @@
       
         <tags>
             
-            <tag> Study </tag>
+            <tag> 学习笔记 </tag>
             
-            <tag> First Blog </tag>
+            <tag> 第一个博客 </tag>
             
         </tags>
       
