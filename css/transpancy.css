@@ -6,12 +6,12 @@
 [data-theme='dark'] div#archive,
 [data-theme='dark'] div#tag,
 [data-theme='dark'] div#category {
-    background: rgba(0, 0, 0, 0.9)!important;
+    background: rgba(0, 0, 0, .7)!important;
 }
 
 /* 黑夜模式下文章列表项背景调整 */
 [data-theme='dark'] #recent-posts > .recent-post-item {
-    background: rgba(0, 0, 0, 0.6)!important;
+    background: rgba(0, 0, 0, .7)!important;
 }
 
 /* 文章页背景 */
