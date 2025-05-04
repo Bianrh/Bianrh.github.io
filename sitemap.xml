@@ -149,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://bianrh.github.io/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bianrh.github.io/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,17 +169,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://bianrh.github.io/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://bianrh.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://bianrh.github.io/categories/AI%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2025-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bianrh.github.io/categories/AI%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8/</loc>
+    <loc>https://bianrh.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
